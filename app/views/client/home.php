@@ -37,6 +37,7 @@
                     </a>
                     <a href="index.php?action=account">
                         <img src="../assets/image/user-interface.png" alt="User" class="icon-img">
+                    
                     </a>
                 </div>
             </div>
